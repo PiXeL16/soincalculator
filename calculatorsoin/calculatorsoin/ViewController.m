@@ -44,6 +44,11 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void)thisIsANewMethod
+{
+    
+}
+
 -(IBAction)numberPressed:(UIButton *)sender
 {
 
